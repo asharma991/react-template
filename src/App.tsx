@@ -4,6 +4,7 @@ import Logo from './react-icon.svg';
 import ClickCounter from './ClickCounter';
 
 export const App = () => {
+  const name ="abhishek";
   return (
     <>
       <h1>
