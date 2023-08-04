@@ -1,13 +1,13 @@
-import "./styles.css";
-import Img from "./web-api.png";
-import Logo from "./react-icon.svg";
-import ClickCounter from "./ClickCounter";
+import './styles.css';
+import Img from './web-api.png';
+import Logo from './react-icon.svg';
+import ClickCounter from './ClickCounter';
 
 export const App = () => {
   return (
     <>
       <h1>
-        React TypeScript Webpack Starter Template - {process.env.NODE_ENV}{" "}
+        React TypeScript Webpack Starter Template - {process.env.NODE_ENV}{' '}
         {process.env.name}
       </h1>
       ;
